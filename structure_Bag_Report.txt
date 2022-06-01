@@ -1,0 +1,16 @@
+
+[A1) ID
+2) Summary
+3) Progect
+4) Verion
+5) Severity
+6) Priority
+7) Status
+8) Author
+9) Assigned
+10) Description
+11) Step to reproduce
+12) Actual result
+13) Expected result
+14) Environment
+15) Attachments)
