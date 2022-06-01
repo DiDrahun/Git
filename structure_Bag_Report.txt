@@ -1,5 +1,5 @@
 
-[A1) ID
+1) ID
 2) Summary
 3) Progect
 4) Verion
