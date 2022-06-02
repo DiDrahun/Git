@@ -1,6 +1,6 @@
 checklist structure:
 1)
-2)[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:[B[B
+2)
 3)
 4)
 5)
