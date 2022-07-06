@@ -18,13 +18,13 @@ GitHub. HW_2
 
 2. Запушить все ветки на внешний репозиторий
 
-    git push --all
+		git push --all
 	
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
 
-    1. git checkout Bag_Reports
+		git checkout Bag_Reports
 	
-	2.  cat > structure_Bag_Report.txt
+		cat > structure_Bag_Report.txt
 1) ID
 2) Summary
 3) Progect
@@ -86,6 +86,6 @@ GitHub. HW_2
 	 
 10. Синхронизировать Внешнюю и Локальную ветки Main
 
-     git checkout main
-	 git fetch
-	 git pull
+git checkout main
+git fetch
+git pull
